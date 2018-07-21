@@ -1,2 +1,2 @@
 # automating-aws-with-python
-Acloud kurs
+Kurs repo för Automating AWS with python
